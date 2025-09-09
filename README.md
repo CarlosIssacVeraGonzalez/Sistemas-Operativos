@@ -1,2 +1,2 @@
 # Sistemas-Operativos
-Trajos
+Trabajos
